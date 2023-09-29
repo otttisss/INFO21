@@ -1,0 +1,8 @@
+Title,ParentTask,MaxXP
+C3_S21_StringPlus,,100
+C3_SimpleBashUtils,C3_S21_StringPlus,200
+C4_s21_math,C3_SimpleBashUtils,300
+C5_s21_decimal,C4_s21_math,400
+C6_s21_matrix,C3_SimpleBashUtils,500
+C7_S21_SmartCalc_v1.0,C3_S21_StringPlus,500
+D01_Linux,C3_S21_StringPlus,300
